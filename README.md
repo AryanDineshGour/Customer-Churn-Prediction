@@ -6,7 +6,7 @@ This project constructs a machine learning model to forecast customer churn, whi
 2) Dataset Source
 
 Telco Customer Churn Dataset (Kaggle)
-https://www. kaggle. com/datasets/blastchar/telco-customer-churn
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 3) Steps to Run the Project
 
